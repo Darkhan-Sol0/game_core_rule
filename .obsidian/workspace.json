@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "aeaf0a6e165d38a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "74633a4ddd8c2743",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cbd24b59a22b837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Механики/Особенности/Особенности.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Особенности"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b76e0cfba9a01f0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "899db764099970e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10b22ad7519c0fcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "94dccfb080dc2aeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "9733e03d96f0d751",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5
+  },
+  "right": {
+    "id": "43725a4971e6b166",
+    "type": "split",
+    "children": [
+      {
+        "id": "60d236a18ad250a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c3905a7c6c7fa50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Расы/Расы и Подрасы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "b786866a410a79d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Расы/Расы и Подрасы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "92ee3c3179d5f092",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "cdf877ac98aa195b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "96533bc3814c198b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Расы/Расы и Подрасы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "4cbd24b59a22b837",
+  "lastOpenFiles": [
+    "123.md",
+    "Механики/Пути/Путь Ковена/Путь Ковен.md",
+    "Механики/Особенности/Особенности.md",
+    "Механики/Пути/Путь Договора/Путь Договора.md",
+    "Механики/Ядро/Характеристики/Характеристики.md",
+    "Механики/Ядро/Лист Персонажа.md",
+    "Механики/Пути/Путь Клятвы/Путь клятвы.md",
+    "Механики/Особенности",
+    "Механики/Пути/Путь Искувсства/Путь Искувсства.md",
+    "Механики/Пути/Путь Клятвы/Классы/Клятва Бусидо.md",
+    "Механики/Пути/Путь Клятвы/Классы/Клятва Империи.md",
+    "Механики/Пути/Путь Шаблон.md",
+    "Механики/Пути/Путь Сметри/Классы/Некромант.md",
+    "Механики/Пути/Путь Мастер Кулака/Классы/Стиль Кулак Дракона.md",
+    "Механики/Пути/Путь Договора/Классы/Договор Силы.md",
+    "Механики/Пути/Путь Договора/Классы/Договор Знаний.md",
+    "Механики/Пути/Путь Договора/Классы/Договор Власти.md",
+    "Механики/Пути/Путь Искувсства/Классы/Циркач.md",
+    "Механики/Пути/Путь Искувсства/Классы/Художник.md",
+    "Механики/Пути/Путь Искувсства/Классы/Танцор.md",
+    "Механики/Пути/Путь Искувсства/Классы/Поэт.md",
+    "Механики/Пути/Путь Искувсства/Классы/Музыкант.md",
+    "Механики/Пути/Путь Клятвы/Классы/Клятва Культа.md",
+    "Механики/Пути/Путь Клятвы/Классы/Клятва Смерти.md",
+    "Механики/Пути/Путь Клятвы/Классы/Клятва Церкви.md",
+    "Механики/Пути/Путь Мастер Кулака/Классы/Стиль Кулак Стихий.md",
+    "Механики/Пути/Путь Мастер Кулака/Классы/Стиль Кулак Ярости.md",
+    "Механики/Пути/Путь Мастер Кулака/Классы",
+    "Механики/Пути/Путь Мастер Кулака",
+    "Механики/Ядро/Без названия",
+    "Лор",
+    "Механики",
+    "Механики/Расы",
+    "Механики/Ядро/Характеристики",
+    "Механики/Ядро",
+    "a.bash~"
+  ]
+}
